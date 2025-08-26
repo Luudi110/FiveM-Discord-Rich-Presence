@@ -90,6 +90,3 @@ MIT – free to use and adapt. Attribution is appreciated but not required.
 
 ### Credits
 Built for RedM (rdr3). Natives and Rich Presence provided by Cfx.re and Discord.
-
-# rsg-essentials
-Basic essentials for rsg core.
